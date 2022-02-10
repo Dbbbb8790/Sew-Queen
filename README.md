@@ -9,7 +9,7 @@
 ***
 
 # How To Deploy And Deploy Password
-<div align="left"><a href="https://youtu.be/AKU7YVXxMbM"><img src="https://github.com/ravindu01manoj/ravindu01manoj/blob/main/media/20210814_230626.png" width="500" ></a></div>
+<div align="left"><a href="https://youtu.be/AKU7YVXxMbM"><img src="https://github.com/Dbbbb8790/Sew-Queen.git/ravindu01manoj/blob/main/media/20210814_230626.png" width="500" ></a></div>
 
 
 ***
@@ -18,7 +18,7 @@
 
 ---
 > Deploy Your Bot On Heroku ✏
-<div align="left"><a href="https://github.com/ravindu01manoj/ravindu01manoj/blob/main/SEW.md"><img src="https://github.com/ravindu01manoj/ravindu01manoj/blob/main/media/Heroku_logo.svg.png" width="150" ></a></div>
+<div align="left"><a href="https://github.com/ravindu01manoj/ravindu01manoj/blob/main/SEW.md"><img src="https://github.com/ravindu0/blob/main/media/Heroku_logo.svg.png" width="150" ></a></div>
 
 ***
 # Deployment link not working?
@@ -27,7 +27,7 @@
 
 > Now Click The [Fork](https://github.com/ravindu01manoj/Sew-Queen/fork)
 
-> Now Copy This Url https://heroku.com/deploy?template=https://github.com/ravindu01manoj/Sew-Queen.git and change ravindu01manoj/Sew-Queen with your user name and repo name
+> Now Copy This Url https://heroku.com/deploy?template=https://github.com/Dbbbb8790/Sew-Queen.git and change ravindu01manoj/Sew-Queen with your user name and repo name
 
 > Now Deploy Sew Queen With Your Own Url.
 
